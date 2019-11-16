@@ -1,3 +1,6 @@
+# Orange Railcraft
+クラフトガイドの機構を撤去してうざい待ち時間を無くし(予定)ます。
+
 # Railcraft - A Minecraft Mod
 
 Here you will find the source and issue tracker for the **Official Railcraft Project**.
